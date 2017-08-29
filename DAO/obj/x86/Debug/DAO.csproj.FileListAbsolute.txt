@@ -1,0 +1,10 @@
+C:\Users\Victor\Desktop\TCC\Restaurante\DAO\bin\x86\Debug\DAO.dll
+C:\Users\Victor\Desktop\TCC\Restaurante\DAO\bin\x86\Debug\DAO.pdb
+C:\Users\Victor\Desktop\TCC\Restaurante\DAO\obj\x86\Debug\DAO.dll
+C:\Users\Victor\Desktop\TCC\Restaurante\DAO\obj\x86\Debug\DAO.pdb
+C:\Users\Victor\Desktop\TCC\Restaurante\DAO\obj\x86\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\DAO\bin\x86\Debug\DAO.dll
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\DAO\bin\x86\Debug\DAO.pdb
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\DAO\obj\x86\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\DAO\obj\x86\Debug\DAO.dll
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\DAO\obj\x86\Debug\DAO.pdb

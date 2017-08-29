@@ -1,0 +1,68 @@
+Z:\2016\Restaurante\BLL\bin\Debug\BLL.dll
+Z:\2016\Restaurante\BLL\bin\Debug\BLL.pdb
+Z:\2016\Restaurante\BLL\obj\Debug\BLL.dll
+Z:\2016\Restaurante\BLL\obj\Debug\BLL.pdb
+Z:\2016\Restaurante\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+Z:\Nova pasta (18)\2016\Restaurante\BLL\bin\Debug\BLL.dll
+Z:\Nova pasta (18)\2016\Restaurante\BLL\bin\Debug\BLL.pdb
+Z:\Nova pasta (18)\2016\Restaurante\BLL\obj\Debug\BLL.dll
+Z:\Nova pasta (18)\2016\Restaurante\BLL\obj\Debug\BLL.pdb
+Z:\Nova pasta (18)\2016\Restaurante\BLL\bin\Debug\DAO.dll
+Z:\Nova pasta (18)\2016\Restaurante\BLL\bin\Debug\DAO.pdb
+Z:\Nova pasta (18)\2016\Restaurante\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+Z:\Restaurante\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+Z:\Restaurante\BLL\obj\Debug\BLL.dll
+Z:\987275383\TCC\Restaurante\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+Z:\987275383\TCC\Restaurante\BLL\obj\Debug\BLL.dll
+Z:\987275383\TCC\Restaurante\BLL\bin\Debug\BLL.dll
+Z:\987275383\TCC\Restaurante\BLL\bin\Debug\BLL.pdb
+Z:\987275383\TCC\Restaurante\BLL\bin\Debug\DAO.dll
+Z:\987275383\TCC\Restaurante\BLL\bin\Debug\DAO.pdb
+Z:\987275383\TCC\Restaurante\BLL\obj\Debug\BLL.pdb
+G:\TCC\Restaurante\BLL\bin\Debug\BLL.dll
+G:\TCC\Restaurante\BLL\bin\Debug\BLL.pdb
+G:\TCC\Restaurante\BLL\bin\Debug\DAO.dll
+G:\TCC\Restaurante\BLL\bin\Debug\DAO.pdb
+G:\TCC\Restaurante\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\TCC\Restaurante\BLL\obj\Debug\BLL.dll
+G:\TCC\Restaurante\BLL\obj\Debug\BLL.pdb
+C:\Users\Victor\Desktop\TCC\Restaurante\BLL\bin\Debug\BLL.dll
+C:\Users\Victor\Desktop\TCC\Restaurante\BLL\bin\Debug\BLL.pdb
+C:\Users\Victor\Desktop\TCC\Restaurante\BLL\bin\Debug\DAO.dll
+C:\Users\Victor\Desktop\TCC\Restaurante\BLL\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Victor\Desktop\TCC\Restaurante\BLL\bin\Debug\DAO.pdb
+C:\Users\Victor\Desktop\TCC\Restaurante\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\TCC\Restaurante\BLL\obj\Debug\BLL.dll
+C:\Users\Victor\Desktop\TCC\Restaurante\BLL\obj\Debug\BLL.pdb
+Z:\TCC\Restaurante\BLL\bin\Debug\BLL.dll
+Z:\TCC\Restaurante\BLL\bin\Debug\BLL.pdb
+Z:\TCC\Restaurante\BLL\bin\Debug\DAO.dll
+Z:\TCC\Restaurante\BLL\bin\Debug\Oracle.DataAccess.dll
+Z:\TCC\Restaurante\BLL\bin\Debug\DAO.pdb
+Z:\TCC\Restaurante\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+Z:\TCC\Restaurante\BLL\obj\Debug\BLL.dll
+Z:\TCC\Restaurante\BLL\obj\Debug\BLL.pdb
+C:\Users\OSWALDO\Desktop\Restaurante_agosto\BLL\bin\Debug\BLL.dll
+C:\Users\OSWALDO\Desktop\Restaurante_agosto\BLL\bin\Debug\BLL.pdb
+C:\Users\OSWALDO\Desktop\Restaurante_agosto\BLL\bin\Debug\DAO.dll
+C:\Users\OSWALDO\Desktop\Restaurante_agosto\BLL\bin\Debug\Oracle.DataAccess.dll
+C:\Users\OSWALDO\Desktop\Restaurante_agosto\BLL\bin\Debug\DAO.pdb
+C:\Users\OSWALDO\Desktop\Restaurante_agosto\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\OSWALDO\Desktop\Restaurante_agosto\BLL\obj\Debug\BLL.dll
+C:\Users\OSWALDO\Desktop\Restaurante_agosto\BLL\obj\Debug\BLL.pdb
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\BLL\bin\Debug\BLL.dll
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\BLL\bin\Debug\BLL.pdb
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\BLL\bin\Debug\DAO.dll
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\BLL\bin\Debug\Oracle.DataAccess.dll
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\BLL\bin\Debug\DAO.pdb
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\BLL\obj\Debug\BLL.dll
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\BLL\obj\Debug\BLL.pdb
+C:\Users\OSWALDO\Desktop\Restaurante_agosto2\BLL\bin\Debug\BLL.dll
+C:\Users\OSWALDO\Desktop\Restaurante_agosto2\BLL\bin\Debug\BLL.pdb
+C:\Users\OSWALDO\Desktop\Restaurante_agosto2\BLL\bin\Debug\DAO.dll
+C:\Users\OSWALDO\Desktop\Restaurante_agosto2\BLL\bin\Debug\Oracle.DataAccess.dll
+C:\Users\OSWALDO\Desktop\Restaurante_agosto2\BLL\bin\Debug\DAO.pdb
+C:\Users\OSWALDO\Desktop\Restaurante_agosto2\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\OSWALDO\Desktop\Restaurante_agosto2\BLL\obj\Debug\BLL.dll
+C:\Users\OSWALDO\Desktop\Restaurante_agosto2\BLL\obj\Debug\BLL.pdb

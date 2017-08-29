@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\TCC\Restaurante\BLL\bin\x86\Debug\BLL.dll
+C:\Users\Victor\Desktop\TCC\Restaurante\BLL\bin\x86\Debug\BLL.pdb
+C:\Users\Victor\Desktop\TCC\Restaurante\BLL\bin\x86\Debug\DAO.dll
+C:\Users\Victor\Desktop\TCC\Restaurante\BLL\bin\x86\Debug\Oracle.DataAccess.dll
+C:\Users\Victor\Desktop\TCC\Restaurante\BLL\bin\x86\Debug\DAO.pdb
+C:\Users\Victor\Desktop\TCC\Restaurante\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\TCC\Restaurante\BLL\obj\x86\Debug\BLL.dll
+C:\Users\Victor\Desktop\TCC\Restaurante\BLL\obj\x86\Debug\BLL.pdb
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\BLL\bin\x86\Debug\BLL.dll
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\BLL\bin\x86\Debug\BLL.pdb
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\BLL\bin\x86\Debug\DAO.dll
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\BLL\bin\x86\Debug\DAO.pdb
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\BLL\obj\x86\Debug\BLL.dll
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\BLL\obj\x86\Debug\BLL.pdb

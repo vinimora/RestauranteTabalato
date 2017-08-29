@@ -1,0 +1,106 @@
+Z:\2016\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+Z:\2016\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+Z:\2016\Restaurante\Restaurante\obj\x86\Debug\Restaurante.Properties.Resources.resources
+Z:\2016\Restaurante\Restaurante\obj\x86\Debug\Restaurante.csproj.GenerateResource.Cache
+Z:\2016\Restaurante\Restaurante\obj\x86\Debug\Restaurante.exe
+Z:\2016\Restaurante\Restaurante\obj\x86\Debug\Restaurante.pdb
+Z:\2016\Restaurante\Restaurante\obj\x86\Debug\Restaurante.Form1.resources
+Z:\2016\Restaurante\Restaurante\obj\x86\Debug\Restaurante.Cadastro_func.resources
+Z:\Nova pasta (18)\2016\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+Z:\Nova pasta (18)\2016\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+Z:\Nova pasta (18)\2016\Restaurante\Restaurante\bin\Debug\BLL.dll
+Z:\Nova pasta (18)\2016\Restaurante\Restaurante\bin\Debug\BLL.pdb
+Z:\Nova pasta (18)\2016\Restaurante\Restaurante\obj\x86\Debug\Restaurante.csprojResolveAssemblyReference.cache
+Z:\Nova pasta (18)\2016\Restaurante\Restaurante\obj\x86\Debug\Restaurante.Cadastro_func.resources
+Z:\Nova pasta (18)\2016\Restaurante\Restaurante\obj\x86\Debug\Restaurante.Form1.resources
+Z:\Nova pasta (18)\2016\Restaurante\Restaurante\obj\x86\Debug\Restaurante.Properties.Resources.resources
+Z:\Nova pasta (18)\2016\Restaurante\Restaurante\obj\x86\Debug\Restaurante.csproj.GenerateResource.Cache
+Z:\Nova pasta (18)\2016\Restaurante\Restaurante\obj\x86\Debug\Restaurante.exe
+Z:\Nova pasta (18)\2016\Restaurante\Restaurante\obj\x86\Debug\Restaurante.pdb
+Z:\Nova pasta (18)\2016\Restaurante\Restaurante\bin\Debug\DAO.dll
+Z:\Nova pasta (18)\2016\Restaurante\Restaurante\bin\Debug\DAO.pdb
+Z:\Restaurante\Restaurante\obj\x86\Debug\Restaurante.exe
+Z:\Restaurante\Restaurante\obj\x86\Debug\Restaurante.pdb
+Z:\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+Z:\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+Z:\Restaurante\Restaurante\bin\Debug\BLL.dll
+Z:\Restaurante\Restaurante\bin\Debug\DAO.dll
+Z:\Restaurante\Restaurante\bin\Debug\BLL.pdb
+Z:\Restaurante\Restaurante\bin\Debug\DAO.pdb
+Z:\Restaurante\Restaurante\obj\x86\Debug\Restaurante.csprojResolveAssemblyReference.cache
+Z:\Restaurante\Restaurante\obj\x86\Debug\Restaurante.Cadastro_func.resources
+Z:\Restaurante\Restaurante\obj\x86\Debug\Restaurante.Form1.resources
+Z:\Restaurante\Restaurante\obj\x86\Debug\Restaurante.Properties.Resources.resources
+Z:\Restaurante\Restaurante\obj\x86\Debug\Restaurante.csproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\TCC\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+C:\Users\Victor\Desktop\TCC\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+C:\Users\Victor\Desktop\TCC\Restaurante\Restaurante\bin\Debug\BLL.dll
+C:\Users\Victor\Desktop\TCC\Restaurante\Restaurante\bin\Debug\DAO.dll
+C:\Users\Victor\Desktop\TCC\Restaurante\Restaurante\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Victor\Desktop\TCC\Restaurante\Restaurante\bin\Debug\BLL.pdb
+C:\Users\Victor\Desktop\TCC\Restaurante\Restaurante\bin\Debug\DAO.pdb
+C:\Users\Victor\Desktop\TCC\Restaurante\Restaurante\obj\x86\Debug\Restaurante.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\TCC\Restaurante\Restaurante\obj\x86\Debug\Restaurante.frmCadastroFunc.resources
+C:\Users\Victor\Desktop\TCC\Restaurante\Restaurante\obj\x86\Debug\Restaurante.frmCaixa.resources
+C:\Users\Victor\Desktop\TCC\Restaurante\Restaurante\obj\x86\Debug\Restaurante.Sistema.ConsultLogin.resources
+C:\Users\Victor\Desktop\TCC\Restaurante\Restaurante\obj\x86\Debug\Restaurante.frmLogin.resources
+C:\Users\Victor\Desktop\TCC\Restaurante\Restaurante\obj\x86\Debug\Restaurante.frmSistema.resources
+C:\Users\Victor\Desktop\TCC\Restaurante\Restaurante\obj\x86\Debug\Restaurante.Properties.Resources.resources
+C:\Users\Victor\Desktop\TCC\Restaurante\Restaurante\obj\x86\Debug\Restaurante.Sistema.telaCozinha.resources
+C:\Users\Victor\Desktop\TCC\Restaurante\Restaurante\obj\x86\Debug\Restaurante.Sistema.TelaSplashhhhh.resources
+C:\Users\Victor\Desktop\TCC\Restaurante\Restaurante\obj\x86\Debug\Restaurante.csproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\TCC\Restaurante\Restaurante\obj\x86\Debug\Restaurante.exe
+C:\Users\Victor\Desktop\TCC\Restaurante\Restaurante\obj\x86\Debug\Restaurante.pdb
+Z:\TCC\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+Z:\TCC\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+Z:\TCC\Restaurante\Restaurante\bin\Debug\BLL.dll
+Z:\TCC\Restaurante\Restaurante\bin\Debug\DAO.dll
+Z:\TCC\Restaurante\Restaurante\bin\Debug\BLL.pdb
+Z:\TCC\Restaurante\Restaurante\bin\Debug\DAO.pdb
+Z:\TCC\Restaurante\Restaurante\obj\x86\Debug\Restaurante.csprojResolveAssemblyReference.cache
+Z:\TCC\Restaurante\Restaurante\obj\x86\Debug\Restaurante.frmCadastroFunc.resources
+Z:\TCC\Restaurante\Restaurante\obj\x86\Debug\Restaurante.frmCaixa.resources
+Z:\TCC\Restaurante\Restaurante\obj\x86\Debug\Restaurante.Sistema.ConsultLogin.resources
+Z:\TCC\Restaurante\Restaurante\obj\x86\Debug\Restaurante.frmLogin.resources
+Z:\TCC\Restaurante\Restaurante\obj\x86\Debug\Restaurante.frmSistema.resources
+Z:\TCC\Restaurante\Restaurante\obj\x86\Debug\Restaurante.Properties.Resources.resources
+Z:\TCC\Restaurante\Restaurante\obj\x86\Debug\Restaurante.Sistema.telaCozinha.resources
+Z:\TCC\Restaurante\Restaurante\obj\x86\Debug\Restaurante.Sistema.TelaSplashhhhh.resources
+Z:\TCC\Restaurante\Restaurante\obj\x86\Debug\Restaurante.csproj.GenerateResource.Cache
+Z:\TCC\Restaurante\Restaurante\obj\x86\Debug\Restaurante.exe
+Z:\TCC\Restaurante\Restaurante\obj\x86\Debug\Restaurante.pdb
+C:\Users\OSWALDO\Desktop\Restaurante_agosto\Restaurante\bin\Debug\Restaurante.exe
+C:\Users\OSWALDO\Desktop\Restaurante_agosto\Restaurante\bin\Debug\Restaurante.pdb
+C:\Users\OSWALDO\Desktop\Restaurante_agosto\Restaurante\bin\Debug\BLL.dll
+C:\Users\OSWALDO\Desktop\Restaurante_agosto\Restaurante\bin\Debug\DAO.dll
+C:\Users\OSWALDO\Desktop\Restaurante_agosto\Restaurante\bin\Debug\BLL.pdb
+C:\Users\OSWALDO\Desktop\Restaurante_agosto\Restaurante\bin\Debug\DAO.pdb
+C:\Users\OSWALDO\Desktop\Restaurante_agosto\Restaurante\obj\x86\Debug\Restaurante.csprojResolveAssemblyReference.cache
+C:\Users\OSWALDO\Desktop\Restaurante_agosto\Restaurante\obj\x86\Debug\Restaurante.frmCadastroFunc.resources
+C:\Users\OSWALDO\Desktop\Restaurante_agosto\Restaurante\obj\x86\Debug\Restaurante.frmCaixa.resources
+C:\Users\OSWALDO\Desktop\Restaurante_agosto\Restaurante\obj\x86\Debug\Restaurante.Sistema.ConsultLogin.resources
+C:\Users\OSWALDO\Desktop\Restaurante_agosto\Restaurante\obj\x86\Debug\Restaurante.frmLogin.resources
+C:\Users\OSWALDO\Desktop\Restaurante_agosto\Restaurante\obj\x86\Debug\Restaurante.frmSistema.resources
+C:\Users\OSWALDO\Desktop\Restaurante_agosto\Restaurante\obj\x86\Debug\Restaurante.Properties.Resources.resources
+C:\Users\OSWALDO\Desktop\Restaurante_agosto\Restaurante\obj\x86\Debug\Restaurante.Sistema.telaCozinha.resources
+C:\Users\OSWALDO\Desktop\Restaurante_agosto\Restaurante\obj\x86\Debug\Restaurante.Sistema.TelaSplashhhhh.resources
+C:\Users\OSWALDO\Desktop\Restaurante_agosto\Restaurante\obj\x86\Debug\Restaurante.csproj.GenerateResource.Cache
+C:\Users\OSWALDO\Desktop\Restaurante_agosto\Restaurante\obj\x86\Debug\Restaurante.exe
+C:\Users\OSWALDO\Desktop\Restaurante_agosto\Restaurante\obj\x86\Debug\Restaurante.pdb
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\Restaurante\bin\Debug\Restaurante.exe
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\Restaurante\bin\Debug\BLL.dll
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\Restaurante\bin\Debug\DAO.dll
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\Restaurante\bin\Debug\BLL.pdb
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\Restaurante\bin\Debug\DAO.pdb
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\Restaurante\obj\x86\Debug\Restaurante.csprojResolveAssemblyReference.cache
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\Restaurante\obj\x86\Debug\Restaurante.frmCadastroFunc.resources
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\Restaurante\obj\x86\Debug\Restaurante.frmCaixa.resources
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\Restaurante\obj\x86\Debug\Restaurante.Sistema.ConsultLogin.resources
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\Restaurante\obj\x86\Debug\Restaurante.frmLogin.resources
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\Restaurante\obj\x86\Debug\Restaurante.frmSistema.resources
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\Restaurante\obj\x86\Debug\Restaurante.Properties.Resources.resources
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\Restaurante\obj\x86\Debug\Restaurante.Sistema.telaCozinha.resources
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\Restaurante\obj\x86\Debug\Restaurante.Sistema.TelaSplashhhhh.resources
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\Restaurante\obj\x86\Debug\Restaurante.csproj.GenerateResource.Cache
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\Restaurante\obj\x86\Debug\Restaurante.exe
+C:\Users\OSWALDO\Desktop\Restaurante_agosto1\Restaurante\obj\x86\Debug\Restaurante.pdb
